@@ -1,0 +1,10 @@
+{
+  "id": "monokai",
+  "name": "Monokai",
+  "description": "Monokai theme with green accents",
+  "colors": {
+    "backgroundColor": "#272822",
+    "textColor": "#f8f8f2",
+    "accentColor": "#a6e22e"
+  }
+}

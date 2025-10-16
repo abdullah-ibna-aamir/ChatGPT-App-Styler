@@ -1,0 +1,10 @@
+{
+  "id": "nord",
+  "name": "Nord",
+  "description": "Nord theme with blue accents",
+  "colors": {
+    "backgroundColor": "#2e3440",
+    "textColor": "#d8dee9",
+    "accentColor": "#88c0d0"
+  }
+}

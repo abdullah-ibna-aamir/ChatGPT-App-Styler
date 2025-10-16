@@ -1,0 +1,10 @@
+{
+  "id": "dark",
+  "name": "Dark",
+  "description": "Default dark theme with green accents",
+  "colors": {
+    "backgroundColor": "#1a1a1a",
+    "textColor": "#ececec",
+    "accentColor": "#10a37f"
+  }
+}

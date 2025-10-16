@@ -1,0 +1,10 @@
+{
+  "id": "light",
+  "name": "Light",
+  "description": "Clean light theme with blue accents",
+  "colors": {
+    "backgroundColor": "#ffffff",
+    "textColor": "#1a1a1a",
+    "accentColor": "#0066cc"
+  }
+}
