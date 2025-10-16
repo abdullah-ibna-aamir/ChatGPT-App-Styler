@@ -1,0 +1,10 @@
+{
+  "id": "solarized",
+  "name": "Solarized",
+  "description": "Solarized dark theme with blue accents",
+  "colors": {
+    "backgroundColor": "#002b36",
+    "textColor": "#839496",
+    "accentColor": "#268bd2"
+  }
+}
